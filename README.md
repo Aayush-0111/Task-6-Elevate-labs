@@ -7,7 +7,7 @@ This repository demonstrates the implementation of a **K-Nearest Neighbors (KNN)
 ## 📊 Dataset
 
 - **Name**: Iris Flower Dataset  
-- **Source**: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/iris)
+- **Source**: [Iris species dataset on Kaggle](https://www.kaggle.com/datasets/uciml/iris)
 - **Features**: 
   - Sepal Length
   - Sepal Width
